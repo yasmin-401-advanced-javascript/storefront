@@ -6,8 +6,8 @@
 
 
 ### Documentation
-- [Submission PR](https://github.com/yasmin-401-advanced-javascript/storefront/pull/1)
-- [Netlify]()
+- [Submission PR](https://github.com/yasmin-401-advanced-javascript/storefront/pull/2)
+- [Netlify](https://storefront-combined-reducers.netlify.app/)
 ## Library Used
 
 In this app I used only the **react**
@@ -16,6 +16,7 @@ In this app I used only the **react**
 - `header.js` 
 - `categories.js`
 - `products.js`
+- `cart.js`
 - `footer.js` 
 
 ### Packages
